@@ -1,0 +1,22 @@
+.btn{
+    display: flex;
+    flex-direction: column;
+    justify-content: center ;
+    cursor: pointer;
+    display: inline;
+    padding:0px 20px;
+    background-color:red;
+    color:white;
+
+}
+.btn1{
+    cursor: pointer;
+    display: inline-block;
+    background-color:red;
+    padding: 15px 40px;
+    color:white;
+    margin:20px 0px;    
+}
+.btn1:hover,.btn:hover{
+    opacity:0.8;
+}
